@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ezship
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, assertj, data, data-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, lombok, maven, mockito, mongo-reactive, netty-server, postgres, readme, shade, testcontainers, yaml]
